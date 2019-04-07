@@ -18,6 +18,6 @@ function fuzzyMatch(drivers, letters)
 }
 function matchName(drivers, name)
 {
-  
+
 
 }
